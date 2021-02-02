@@ -1,6 +1,6 @@
 <h2>1.</h2>
 
-Wizard Amigos comm comm are a nice way to connect with other WizardAmigos. It is also a place where users and companies can share their experiences and ideas. Loosely structured community communication repo.:
+Wizard Amigos community calls are a nice way to stay connected with other WizardAmigos. It is also a place where users and companies can share their experiences and ideas. Loosely structured community communication repo.:
 
 **We welcome everyone interested in [WizardAmigos](https://wizardamigos.com/) :hugs:**
 
