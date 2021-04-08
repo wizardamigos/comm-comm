@@ -1,6 +1,6 @@
 ---
 name: Meeting (comm comm call)
-about: jus coffee (or tea) and chat
+about: catch up
 title: ''
 labels: ''
 assignees: ''
