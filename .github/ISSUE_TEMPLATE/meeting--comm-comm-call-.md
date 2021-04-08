@@ -1,6 +1,6 @@
 ---
 name: Meeting (comm comm call)
-about: ddmmyyyy
+about: jus coffee (or tea) and chat
 title: ''
 labels: ''
 assignees: ''
